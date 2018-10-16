@@ -1,4 +1,4 @@
-# Power-Bank
+# Passtrough Power Bank Designs
 This is a collection of thoughts and links for power bank designs  
 [Modifying USB Battery (Portable Power Banks) to charge while charging (to use as ups)](https://electronics.stackexchange.com/questions/285416/modifying-usb-battery-portable-power-banks-to-charge-while-charging-to-use-as)  
 [Wiring of a passthrough charging circuit](https://electronics.stackexchange.com/questions/393874/wiring-of-a-passthrough-charging-circuit-confused-about-having-a-charger-a-rec)  
