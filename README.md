@@ -6,7 +6,7 @@ This is a collection of thoughts and links for power bank designs
 [a solution for 1-cell UPS offered by Maxim](http://pdfserv.maximintegrated.com/en/an/AN5818.pdf)  
 [ MP2690:All-in-One, 2.5A Battery Charger w/ 2.1A Boost Current](https://www.monolithicpower.com/en/mp2690.html)  
 [Can i connect Power source in parallel with power bank output to keep Uninterruptible power supply)](https://electronics.stackexchange.com/questions/275486/can-i-connect-power-source-like-usb-charger-parallel-connection-with-power-ban)  
-![](https://i.stack.imgur.com/SqlPg.png) 
+![](https://i.stack.imgur.com/SqlPg.png)  
 [Proper usage of Lithium charger based on TP4056](https://forum.arduino.cc/index.php?topic=496727.0)  
 [DIY Power Bank Motherboard Circuit ](https://www.banggood.com/DIY-Power-Bank-Motherboard-Circuit-Board-Lithium-Battery-Charging-Board-p-1311987.html?rmmds=search)  
 [DC-DC Boost Buck Adjustable Step Up Step Down Automatic Converter XL6009](https://www.banggood.com/DC-DC-Boost-Buck-Adjustable-Step-Up-Step-Down-Automatic-Converter-XL6009-Module-p-1087346.html?rmmds=search)  
